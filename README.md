@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CYBERXPK · GITHUB README                   -->
+<!--                 PKVIBECODING · GITHUB README                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=VIBE CODING&fontSize=60&fontColor=00d4ff&fontAlignY=55&animation=twinkling&desc=AI-Powered%20Developer%20%7C%20Pakistan%20🇵🇰&descSize=18&descAlignY=78&descColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=OK%20VIBE%20CODING&fontSize=60&fontColor=00d4ff&fontAlignY=55&animation=twinkling&desc=AI-Powered%20Developer%20%7C%20Pakistan%20🇵🇰&descSize=18&descAlignY=78&descColor=ffffff)
 
 <!-- Animated Typing Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=⚡+Building+AI-Powered+Web+Solutions;🤖+Shipping+with+Claude+%26+Gemini;🇵🇰+Digitizing+Pakistan%2C+One+Tool+at+a+Time;🚀+From+Idea+to+Deployed+in+Hours)](https://git.io/typing-svg)
@@ -28,7 +28,7 @@
 ### `> whoami`
 
 ```yaml
-Name        : PK VIBE CODING
+Name        : OK VIBE CODING
 Role        : AI-Powered Full Stack Developer
 Location    : 🇵🇰 Pakistan
 Focus       : AI × Web Automation × Digital Tools
@@ -115,7 +115,7 @@ Status      : 🟢 Building in Public
 
 ### 📊 &nbsp;STATS TERMINAL
 
-<img src="https://github-readme-stats.vercel.app/api?username=CYBERXPK&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=00d4ff" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=PKVIBECODING&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=00d4ff" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PKVIBECODING&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="180" />
 
 <br/>
@@ -149,7 +149,7 @@ Status      : 🟢 Building in Public
 ```
 ╔════════════════════════════════════════════════════╗
 ║   Built with ⚡ AI  ·  Deployed at 🚀 warp speed  ║
-║          © PKVIBECODING · Pakistan 🇵🇰              ║
+║        © OK VIBE CODING · Pakistan 🇵🇰             ║
 ╚════════════════════════════════════════════════════╝
 ```
 
