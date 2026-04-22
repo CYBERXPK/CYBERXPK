@@ -116,15 +116,15 @@ Status      : 🟢 Building in Public
 ### 📊 &nbsp;STATS TERMINAL
 
 <img src="https://github-readme-stats.vercel.app/api?username=CYBERXPK&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=00d4ff" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CYBERXPK&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PKVIBECODING&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="180" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CYBERXPK&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PKVIBECODING&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CYBERXPK&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PKVIBECODING&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -146,25 +146,10 @@ Status      : 🟢 Building in Public
 
 </div>
 
----
-
-<!-- ══════════════════════════════════════════ -->
-<!--              CONNECT                      -->
-<!-- ══════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🔗 &nbsp;CONNECT
-
-[![GitHub](https://img.shields.io/badge/GitHub-CYBERXPK-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/CYBERXPK)
-[![Website](https://img.shields.io/badge/Website-xcyber.gt.tc-00d4ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117)](https://xcyber.gt.tc)
-
-<br/>
-
 ```
 ╔════════════════════════════════════════════════════╗
 ║   Built with ⚡ AI  ·  Deployed at 🚀 warp speed  ║
-║          © PAK X CYBER · Pakistan 🇵🇰              ║
+║          © PKVIBECODING · Pakistan 🇵🇰              ║
 ╚════════════════════════════════════════════════════╝
 ```
 
