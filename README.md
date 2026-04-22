@@ -4,14 +4,14 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=PAK%20X%20CYBER&fontSize=60&fontColor=00d4ff&fontAlignY=55&animation=twinkling&desc=AI-Powered%20Developer%20%7C%20Pakistan%20🇵🇰&descSize=18&descAlignY=78&descColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=VIBE CODING&fontSize=60&fontColor=00d4ff&fontAlignY=55&animation=twinkling&desc=AI-Powered%20Developer%20%7C%20Pakistan%20🇵🇰&descSize=18&descAlignY=78&descColor=ffffff)
 
 <!-- Animated Typing Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=⚡+Building+AI-Powered+Web+Solutions;🤖+Shipping+with+Claude+%26+Gemini;🇵🇰+Digitizing+Pakistan%2C+One+Tool+at+a+Time;🚀+From+Idea+to+Deployed+in+Hours)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=CYBERXPK&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=PKVIDECODING&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/CYBERXPK?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
 ![GitHub stars](https://img.shields.io/github/stars/CYBERXPK?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=TOTAL+STARS)
 
@@ -28,7 +28,7 @@
 ### `> whoami`
 
 ```yaml
-Name        : PAK X CYBER
+Name        : CODING 
 Role        : AI-Powered Full Stack Developer
 Location    : 🇵🇰 Pakistan
 Focus       : AI × Web Automation × Digital Tools
