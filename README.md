@@ -11,9 +11,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PKVIDECODING&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/CYBERXPK?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/CYBERXPK?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=PKVIBECODING&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/PKVIBECODING?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/PKVIBECODING?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=TOTAL+STARS)
 
 </div>
 
@@ -28,7 +28,7 @@
 ### `> whoami`
 
 ```yaml
-Name        : CODING 
+Name        : PK VIBE CODING
 Role        : AI-Powered Full Stack Developer
 Location    : 🇵🇰 Pakistan
 Focus       : AI × Web Automation × Digital Tools
@@ -52,13 +52,13 @@ Status      : 🟢 Building in Public
 
 <!-- ══════════════════════════════════════════ -->
 <!--              TROPHY SHOWCASE              -->
-<!-- ══════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 🏆 &nbsp;ACHIEVEMENT UNLOCKED
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CYBERXPK&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PKVIBECODING&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -68,43 +68,6 @@ Status      : 🟢 Building in Public
 <!--           LIVE PROJECTS TABLE             -->
 <!-- ══════════════════════════════════════════ -->
 
-<div align="center">
-
-### ⚡ &nbsp;FREE LIVE TOOLS &nbsp;·&nbsp; `xcyber.gt.tc`
-
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║              🌐  XCYBER PUBLIC SERVICES DIRECTORY               ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-| &nbsp; | Tool | Link | What it does |
-|:---:|:---|:---|:---|
-| 💾 | **Social Downloader** | [![Live](https://img.shields.io/badge/VISIT-00d4ff?style=flat-square&logo=googlechrome&logoColor=black)](https://xcyber.gt.tc/downloader) `xcyber.gt.tc/downloader` | Download from TikTok, YouTube & more |
-| 📦 | **Sim Packages** | [![Live](https://img.shields.io/badge/VISIT-00d4ff?style=flat-square&logo=googlechrome&logoColor=black)](https://xcyber.gt.tc/packages) `xcyber.gt.tc/packages` | All Pakistan telecom packages |
-| 📅 | **Ramadan 2026 Calendar** | [![Live](https://img.shields.io/badge/VISIT-00d4ff?style=flat-square&logo=googlechrome&logoColor=black)](https://xcyber.gt.tc/ramadan) `xcyber.gt.tc/ramadan` | Sehri & Iftar timings nationwide |
-| 🗄 | **Sim Database** | [![Live](https://img.shields.io/badge/VISIT-00d4ff?style=flat-square&logo=googlechrome&logoColor=black)](https://xcyber.gt.tc/database) `xcyber.gt.tc/database` | SIM ownership lookup |
-| 🏏 | **Cricket Live Stream** | [![Live](https://img.shields.io/badge/VISIT-00d4ff?style=flat-square&logo=googlechrome&logoColor=black)](https://xcyber.gt.tc/cricket) `xcyber.gt.tc/cricket` | Free HD cricket streaming |
-| 💡 | **Bill Checker** | [![Live](https://img.shields.io/badge/VISIT-00d4ff?style=flat-square&logo=googlechrome&logoColor=black)](https://xupdates.gt.tc) `xupdates.gt.tc` | WAPDA & utility bill checker |
-| 👾 | **Rehmat Card** | [![Live](https://img.shields.io/badge/VISIT-00d4ff?style=flat-square&logo=googlechrome&logoColor=black)](https://rehmatcard.gt.tc) `rehmatcard.gt.tc` | Rehmat ul Aalameen card sample |
-
----
-
-<!-- ══════════════════════════════════════════ -->
-<!--          WHATSAPP COMMUNITY              -->
-<!-- ══════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📡 &nbsp;JOIN THE NETWORK
-
-<table>
-<tr>
-<td align="center">
-
-[![WhatsApp](https://img.shields.io/badge/🇵🇰_PAK_UPDATES-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb9shWp4o7qPSrCXS603)
 
 </td>
 <td align="center">
